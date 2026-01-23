@@ -1,40 +1,44 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=220&section=header&text=Harikrishna&fontSize=44&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,100:00F5FF&height=260&section=header&text=Harikrishna&fontSize=48&fontAlignY=40&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Competitive+Programmer;Turning+Coffee+into+Code+☕💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Competitive+Programmer;Hackathons+%7C+Startups+%7C+Innovation;Welcome+to+my+Digital+Universe+🌌" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="420"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
 ```txt
-👾 Developer by day, problem-solver by night
-🚀 React | C++ | Backend | AI
-🎯 Obsessed with clean code & real-world impact
+👾 Ultra-curious developer exploring the edge of tech
+🚀 React | C++ | Backend | AI | Systems
+⚡ Build fast. Think deep. Ship impact.
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,cpp,python,git,github,linux&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,cpp,python,git,github,linux,docker&perline=7"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 🎮 Mini Games & Fun Stuff
+## 🎮 Interactive Zone (Games & Motion)
 
 <p align="center">
   🐍 <b>Snake eating my GitHub contributions</b><br/><br/>
@@ -42,34 +46,39 @@
 </p>
 
 <p align="center">
-  🕹️ <b>GitHub Activity Arcade</b><br/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
+  🎯 <b>Developer Life Simulator</b><br/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360"/>
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harikrishhh07&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishhh07&layout=compact&theme=radical&hide_border=true"/>
+  🕹️ <b>Code • Debug • Repeat</b><br/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="340"/>
 </p>
 
 ---
 
-## 🔥 Streak Mode ON
+## 📊 Power Stats
+
+<p align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=harikrishhh07&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishhh07&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak Mode: GOD LEVEL
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harikrishhh07&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Prestige
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=radical&no-frame=true&row=1&column=7"/>
@@ -95,5 +104,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:7F00FF&height=140&section=footer"/>
 </p>
