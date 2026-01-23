@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=210&section=header&text=Harikrishna&fontSize=42&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=220&section=header&text=Harikrishna&fontSize=44&fontAlignY=35&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Competitive+Programmer;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Competitive+Programmer;Turning+Coffee+into+Code+☕💻" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -11,10 +15,14 @@
 ## 🧠 About Me
 
 ```txt
-💻 Developer who loves building elegant & scalable systems
+👾 Developer by day, problem-solver by night
 🚀 React | C++ | Backend | AI
-🎯 Clean code. Real impact. Continuous growth.
+🎯 Obsessed with clean code & real-world impact
 ```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+</p>
 
 ---
 
@@ -22,6 +30,20 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,cpp,python,git,github,linux&perline=6"/>
+</p>
+
+---
+
+## 🎮 Mini Games & Fun Stuff
+
+<p align="center">
+  🐍 <b>Snake eating my GitHub contributions</b><br/><br/>
+  <img src="https://github.com/harikrishhh07/harikrishhh07/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<p align="center">
+  🕹️ <b>GitHub Activity Arcade</b><br/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -35,23 +57,19 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak Mode ON
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harikrishhh07&theme=radical&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/harikrishhh07/harikrishhh07/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=radical&no-frame=true&row=1&column=7"/>
