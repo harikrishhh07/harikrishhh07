@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Systems%20Builder;Competitive%20Programmer;Hackathons%20%7C%20Startups%20%7C%20Innovation;Entering%20the%20GitHub%20Multiverse%20🌌" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-GOD%20LEVEL-7F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Building%20Impact-00F5FF?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Competitive+Programmer;Hackathons+%7C+Startups+%7C+Innovation;Welcome+to+my+GitHub+Universe+🌌" />
 </p>
 
 <p align="center">
@@ -20,10 +15,14 @@
 ## 🧠 About Me
 
 ```txt
-👾 Developer obsessed with performance & scale
+👾 Ultra-curious developer building at the edge of tech
 🚀 React | C++ | Backend | AI | Systems
-⚡ Engineering ideas into real-world impact
+⚡ Clean code • High performance • Real impact
 ```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
+</p>
 
 ---
 
@@ -42,28 +41,17 @@
   <img src="https://github.com/harikrishhh07/harikrishhh07/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
-## 🌍 3D Contribution Globe
-
 <p align="center">
-  <img src="https://github.com/harikrishhh07/harikrishhh07/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  🕹️ <b>Code • Debug • Repeat</b><br/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="340"/>
 </p>
 
 ---
 
-## 🧠 Competitive Coding (LeetCode)
+## 📊 Power Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harikrishhh07?theme=dark&font=Fira%20Code&ext=contest"/>
-</p>
-
----
-
-## 📊 GitHub Power Stats
-
-<p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=harikrishhh07&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=harikrishhh07&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishhh07&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
@@ -75,12 +63,8 @@
   <img src="https://streak-stats.demolab.com?user=harikrishhh07&theme=radical&hide_border=true"/>
 </p>
 
----
-
-## 🎧 Now Playing on Spotify
-
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&bar_color=00F5FF"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
 </p>
 
 ---
