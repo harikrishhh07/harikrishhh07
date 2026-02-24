@@ -1,81 +1,45 @@
+<!-- MATRIX HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=210&section=header&text=Harikrishna&fontSize=42&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=200&section=header&text=Hari%20Krishna&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Competitive+Programmer;Building+Cool+Stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+System...;Full+Stack+Developer;DSA+Specialist;Building+Secure+Scalable+Systems;Future+Product+Engineer" />
 </p>
 
----
-
-## 🧠 About Me
-
-```txt
-💻 Developer who loves building elegant & scalable systems
-🚀 React | C++ | Backend | AI
-🎯 Clean code. Real impact. Continuous growth.
-```
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,cpp,python,git,github,linux&perline=6"/>
+  <img src="https://komarev.com/ghpvc/?username=harikrishhh07&label=Visitors&color=00ff41&style=flat" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🟢 root@harikrishna:~#
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harikrishhh07&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishhh07&layout=compact&theme=radical&hide_border=true"/>
-</p>
+> whoami
+Hari Krishna
 
----
+> role
+Software Developer | Problem Solver
 
-## 🔥 GitHub Streak
+> focus
+Data Structures & Algorithms
+Full Stack Development
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harikrishhh07&theme=radical&hide_border=true"/>
-</p>
+> mission
+Crack Top Product-Based Companies 🚀
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/harikrishhh07/harikrishhh07/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-00F5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harikrishhh07&style=for-the-badge&color=7F00FF"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=120&section=footer"/>
-</p>
+> status
+Always Learning...
+⚔️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode&theme=dark" /> </p>
+🏆 Hacker Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=matrix&no-frame=true&margin-w=15" /> </p>
+📊 System Analytics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=harikrishhh07&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishhh07&theme=vision-friendly-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" /> </p> <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishhh07&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" /> </p>
+📈 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=harikrishhh07&theme=react-dark&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff" /> </p>
+🐍 Contribution Snake (Matrix Mode)
+<p align="center"> <img src="https://raw.githubusercontent.com/harikrishhh07/harikrishhh07/output/github-contribution-grid-snake-dark.svg" /> </p>
+🌐 Connect
+<p align="center"> <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="30"/></a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=120&section=footer"/> </p> ```
