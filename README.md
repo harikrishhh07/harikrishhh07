@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-
+  
 ## ⚡ SYSTEM INITIALIZED ⚡
 
 ```
