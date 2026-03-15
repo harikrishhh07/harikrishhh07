@@ -131,11 +131,11 @@ class HariKrishna:
 </picture>
 
 
----## 🏆 TROPHY ROOM
+## 🏆 TROPHY ROOM
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
 
 </div>
 
