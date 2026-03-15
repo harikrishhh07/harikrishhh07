@@ -131,17 +131,13 @@ class HariKrishna:
 </picture>
 
 
----
-
-## 🏆 TROPHY ROOM
+---## 🏆 TROPHY ROOM
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=matrix&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=harikrishhh07&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" />
 
 </div>
-
----
 
 ## 🎯 FINAL BOSS OBJECTIVES
 
