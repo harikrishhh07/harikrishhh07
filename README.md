@@ -168,3 +168,7 @@ class HariKrishna:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=120&section=footer&text=Architecting+Intelligence.+Engineering+the+Future.&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
 </div>
+![](https://komarev.com/ghpvc/?username=harikrishhh07&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harikrishhh07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
