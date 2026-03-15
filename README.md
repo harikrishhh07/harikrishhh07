@@ -168,4 +168,7 @@ class HariKrishna:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=120&section=footer&text=Architecting+Intelligence.+Engineering+the+Future.&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
 </div>
-![Profile Views](https://api.countapi.xyz/hit/harikrishhh07/profile-views)>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1.2K-blue"/>
+</p>
