@@ -165,5 +165,5 @@ class HariKrishna:
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1.2K-blue"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-2.5K-blue"/>
 </p>
